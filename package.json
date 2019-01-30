@@ -2,7 +2,7 @@
   "name": "minecraft-yggdrasil",
   "version": "0.1.0",
   "description": "An api to authenticate with mojang's auth api.",
-  "main": "src/index.ts",
+  "main": "lib/index.js",
   "scripts": {
     "test": "mocha -r ts-node/register src/test.ts"
   },
